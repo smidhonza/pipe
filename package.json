@@ -1,0 +1,28 @@
+{
+  "name": "@smidhonza/pipe",
+  "version": "1.0.0",
+  "private": false,
+  "description": "",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smidhonza/pipe.git"
+  },
+  "author": "Honza Smid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smidhonza/pipe/issues"
+  },
+  "homepage": "https://github.com/smidhonza/pipe#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.3"
+  }
+}
